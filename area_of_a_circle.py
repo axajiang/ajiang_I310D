@@ -1,3 +1,5 @@
+#This program is meant to calculate the area of a circle with a function 
+
 def compute_area_of_circle(radius):
 	pi = 3.14
 	area = pi * radius * radius
